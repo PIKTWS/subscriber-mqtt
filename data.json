@@ -1,0 +1,557 @@
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e2d\u0e15 \u0e15\u0e25\u0e01\u0e21\u0e32\u0e01 555555555555 \u0e40\u0e14\u0e34\u0e19\u0e0b\u0e38\u0e1b\u0e40\u0e1b\u0e2d\u0e23\u0e4c \u0e40\u0e08\u0e2d\u0e19\u0e35\u0e40\u0e27\u0e35\u0e22\u0e44\u0e21\u0e40\u0e0b\u0e25\u0e48\u0e32\u0e01\u0e47\u0e22\u0e34\u0e49\u0e21 \u0e21\u0e2d\u0e07\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1b\u0e23\u0e34\u0e49\u0e19\u0e25\u0e30\u0e01\u0e47\u0e22\u0e34\u0e49\u0e21 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2a\u0e48\u0e07\u0e2d\u0e35\u0e42\u0e21\u0e08\u0e34 :) \u0e21\u0e32\u0e01\u0e47\u0e22\u0e34\u0e49\u0e21 \u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e49\u0e32 555555555"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.2, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.2, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.2, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 0}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.2, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": ";; \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e40\u0e02\u0e32\u0e01\u0e47\u0e43\u0e2b\u0e49\u0e41\u0e2b\u0e25\u0e30"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.3, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.2, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.1, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "@ThaiPBS \u0e44\u0e15\u0e23\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19\n\u0e08\u0e15\u0e38\u0e23\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19 \u0e01\u0e47\u0e21\u0e32"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.1, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.1, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 94.4, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.5, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e41\u0e15\u0e48\u0e1e\u0e34\u0e21\u0e1e\u0e4c :) \u0e01\u0e47\u0e04\u0e37\u0e2d\u0e2a\u0e40\u0e1b\u0e04\u0e41\u0e25\u0e49\u0e27\u0e04\u0e48\u0e30\n\n#XXSIVK \n#PorscheSivakorn \n#TRINITY_TNT \n#TheNorthFacexGucci https://t.co/2O9jdYoooQ"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.5, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e09\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e08\u0e30\u0e15\u0e32\u0e22 :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.4, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e41\u0e15\u0e48\u0e40\u0e2d\u0e32\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30 \u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e40\u0e2d\u0e21\u0e40\u0e19\u0e17\u0e43\u0e2b\u0e49\u0e41\u0e2d\u0e23\u0e4c\u0e44\u0e17\u0e21\u0e4c\u0e27\u0e07\u0e0b\u0e27\u0e27.\u0e08\u0e32\u0e01\u0e0a\u0e48\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e41\u0e1a\u0e1a\u0e14\u0e34\u0e1a\u0e14\u0e35\u0e46 \u0e17\u0e33\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e17\u0e33\u0e2d\u0e30\u0e44\u0e23\u0e43\u0e2b\u0e49 \u0e01\u0e38\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08\u0e21\u0e32\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e19\u0e35\u0e49\u2026 https://t.co/Me9uN7TgvB"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.7, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.8, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e22\u0e31\u0e07\u0e20\u0e32\u0e27\u0e19\u0e32\u0e43\u0e19\u0e43\u0e08\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e27\u0e48\u0e32 \u0e41\u0e01\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32 :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@_UwU_ToT_ \u0e40\u0e2b\u0e21\u0e32\u0e04\u0e48\u0e30 :)"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u2661 \u0e25\u0e14\u0e40\u0e2b\u0e25\u0e37\u0e2d 100\u0e3f \u0e23\u0e27\u0e21\u0e2a\u0e48\u0e07\u0e04\u0e31\u0e49\u0e1a\ud83e\udd0f\ud83c\udffb \n#\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nct #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nct127 #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e1a\u0e31\u0e07\u0e17\u0e31\u0e19 #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nctdream #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14ENHYPEN\u2026 https://t.co/flPyxlKFdI"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 94.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@impindyd 55555 \u0e19\u0e49\u0e2d\u0e07\u0e1b\u0e34\u0e48\u0e19\u0e40\u0e25\u0e48\u0e19\u0e21\u0e38\u0e01\u0e15\u0e25\u0e01\u0e08\u0e31\u0e07\u0e04\u0e48\u0e30 :)"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 95, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.1, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@NuchDonghae09 \u0e2a\u0e32\u0e21\u0e40\u0e01\u0e25\u0e2d? \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e40\u0e23\u0e32\u0e44\u0e1b\u0e44\u0e1b\u0e2b\u0e32\u0e01\u0e39\u0e40\u0e01\u0e34\u0e49\u0e25\u0e14\u0e39\u0e04\u0e48\u0e30 \u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e19\u0e30\u0e04\u0e30 :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.2, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.4, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e2d\u0e37\u0e48\u0e19\u0e43\u0e14\n 1. \u0e02\u0e2d\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 \u0e1a. \u0e17\u0e35\u0e48\u0e22\u0e31\u0e07\u0e21\u0e35\u0e07\u0e32\u0e19\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e17\u0e33\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\n2. \u0e40\u0e17\u0e23\u0e19\u0e23\u0e30\u0e1a\u0e1a\u0e43\u0e2b\u0e21\u0e48 \u0e22\u0e32\u0e01\u0e01\u0e01\u0e01\u0e01\u0e01\u0e01\u0e08\u0e38\u0e07 \u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e17\u0e49\u0e2d\u0e2d\u0e2d\u0e2d :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.4, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.4, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.8, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.5, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e44\u0e1b\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c\u0e2b\u0e19\u0e49\u0e32\u0e04\u0e48\u0e30 \u0e43\u0e04\u0e23\u0e2d\u0e22\u0e39\u0e48\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e31\u0e1a\u0e2b\u0e19\u0e39\u0e44\u0e1b\u0e14\u0e39\u0e41\u0e25 \u0e17\u0e31\u0e01\u0e21\u0e32\u0e40\u0e25\u0e22\u0e04\u0e32\u0e30 \u0e2b\u0e19\u0e39\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e23\u0e49\u0e2d\u0e19\u0e40\u0e07\u0e34\u0e19\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e08\u0e23\u0e34\u0e07\u0e46 :( \n\n\u0e0a\u0e48\u0e27\u0e22\u0e2b\u0e19\u0e39\u0e2b\u0e22\u0e48\u0e2d\u0e22\u0e44\u2026 https://t.co/Ds0IMHbbmo"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "3. \n\n     \"\u0e27\u0e31\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c\u0e23\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e34\u0e14\u0e19\u0e30 \u0e16\u0e49\u0e32\u0e22\u0e39\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e23\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30\" \u0e04\u0e38\u0e13\u0e40\u0e17\u0e47\u0e01\u0e0b\u0e4c\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e44\u0e1b\u0e2b\u0e32\u0e40\u0e02\u0e32\n\n      \"\u0e2d\u0e49\u0e2d \u0e2d\u0e37\u0e49\u0e21\"\n\n\u0e1e\u0e24 - \u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c\u2026 https://t.co/CCnAYQiXeF"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e44\u0e1b\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c\u0e2b\u0e19\u0e49\u0e32\u0e04\u0e48\u0e30 \u0e43\u0e04\u0e23\u0e2d\u0e22\u0e39\u0e48\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e31\u0e1a\u0e2b\u0e19\u0e39\u0e44\u0e1b\u0e14\u0e39\u0e41\u0e25 \u0e17\u0e31\u0e01\u0e21\u0e32\u0e40\u0e25\u0e22\u0e04\u0e32\u0e30 \u0e2b\u0e19\u0e39\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e23\u0e49\u0e2d\u0e19\u0e40\u0e07\u0e34\u0e19\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e08\u0e23\u0e34\u0e07\u0e46 :( \n\n#\u0e2b\u0e32\u0e04\u0e19\u0e40\u0e1b\u0e22\u0e4c\u2026 https://t.co/5BKQaReKhG"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.5, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 95.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.4, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@MC_CHOAKUI \u0e21\u0e35\u0e2d\u0e35\u0e01\u0e44\u0e2b\u0e21\u0e04\u0e23\u0e31\u0e1a :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.4, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e17\u0e48\u0e32\u0e17\u0e35\u0e48\u0e40\u0e2b\u0e47\u0e19\u0e14\u0e49\u0e27\u0e22\u0e20\u0e32\u0e29\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e07 \u0e20\u0e32\u0e29\u0e32\u0e01\u0e32\u0e22\n\u0e2a\u0e32\u0e22\u0e15\u0e32 \u0e09\u0e31\u0e19\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e40\u0e14\u0e32\u0e04\u0e14.\u0e2d\u0e2d\u0e01  \ud83e\udd2b\ni like  i like i like :)"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.5, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e40\u0e25\u0e22\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e40\u0e21\u0e19\u0e44\u0e21\u0e48\u0e21\u0e35\u0e07\u0e32\u0e19 \u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e04\u0e27\u0e32\u0e21\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e2b\u0e27\u200b\u0e43\u0e14\u0e46\u0e21\u0e31\u0e19\u0e08\u0e30\u0e08\u0e34\u0e15\u0e43\u0e08\u0e2b\u0e48\u0e2d\u0e40\u0e2b\u0e35\u0e48\u0e22\u0e27\u200b\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49 \u0e1e\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e41\u0e23\u0e07\u0e08\u0e30\u0e17\u0e33\u0e2d\u0e30\u0e44\u0e23\u0e40\u0e25\u0e22\u0e40\u0e15\u0e19\u0e25\u0e4c :("}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.6, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.7, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@onlyCTuniverse 285 \u2014 Babo The Monkey \ud83d\udc12\n\u0e08\u0e32\u0e01\u0e04\u0e2d\u0e25\u0e2f\u0e43\u0e2b\u0e21\u0e48\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 Babo wants to go wild \u0e43\u0e19\u0e04\u0e2d\u0e25\u0e2f\u0e19\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e19\u0e49\u0e2d\u0e07\u0e1e\u0e32\u0e42\u0e1a\u0e25\u0e2d\u0e07\u0e41\u0e15\u0e48\u0e07\u0e15\u0e31\u0e27\u0e40\u0e1b\u0e47\u2026 https://t.co/Bc1hBPNIlT"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.7, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e04\u0e19\u0e40\u0e01\u0e48\u0e07\u0e02\u0e2d\u0e07\u0e1e\u0e27\u0e01\u0e40\u0e23\u0e32 :)"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.8, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e0a\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e08\u0e32\u0e01\u0e1e\u0e27\u0e01\u0e40\u0e23\u0e32 #\u0e40\u0e18\u0e2d\u0e46\u0e40\u0e23\u0e32\u0e21\u0e35\u0e2d\u0e30\u0e44\u0e23\u0e08\u0e30\u0e1a\u0e2d\u0e01 \u0e40\u0e1e\u0e25\u0e07\u0e17\u0e35\u0e48\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e21\u0e2d\u0e1a\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e1a\u0e41\u0e1f\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e17\u0e38\u0e01\u0e04\u0e19\u0e43\u0e19\u0e27\u0e32\u0e23\u0e30\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a 6 \u0e1b\u0e35\u0e02\u0e2d\u0e07\u0e04\u0e48\u0e32\u0e22 :)\n.\n\u0e14\u0e39 M\u2026 https://t.co/8rBbJAEoZ6"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e15\u0e30\u0e2b\u0e25\u0e32\u0e14\u0e44\u0e21\u0e49\u0e19\u0e30\u0e40\u0e1e\u0e32\u0e30\u0e08\u0e33\u0e01\u0e31\u0e14\u0e43\u0e19\u0e2a\u0e30\u0e19\u0e32\u0e21\u0e41\u0e25\u0e30\u0e21\u0e35\u0e0a\u0e31\u0e1a\u0e17\u0e32\u0e07\u0e40\u0e25\u0e36\u0e2d\u0e01\u0e44\u0e27\u0e49\u0e40\u0e1b\u0e31\u0e19\u0e17\u0e36\u0e19\u0e21\u0e30\u0e19\u0e38\u0e14\u0e43\u0e19\u0e42\u0e25\u0e01..\u0e2b\u0e32\u0e01\u0e1c\u0e35\u0e14\u0e15\u0e48\u0e2d\u0e1e\u0e23\u0e30\u0e40\u0e08\u0e49\u0e32..\u0e2a\u0e30\u0e25\u0e30\u0e1e\u0e32\u0e1a\u0e43\u0e19\u0e04\u0e23\u0e35\u0e14\u0e17\u0e30\u0e08\u0e31\u0e01..\u0e21\u0e31\u0e19\u0e19\u0e35\u0e49\u0e25\u0e2d\u0e07\u0e14\u0e39\u2026 https://t.co/cwJk0ylSvV"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e1a\u0e32\u0e07\u0e17\u0e35\u0e21\u0e31\u0e19\u0e01\u0e47\u0e21\u0e35\u0e1e\u0e27\u0e01\u0e40\u0e27\u0e23\n\u0e17\u0e35\u0e48\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e40\u0e01\u0e34\u0e14\u0e21\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e31\u0e27\n\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e2b\u0e25\u0e38\u0e14\u0e1e\u0e49\u0e19\u0e44\u0e27\u0e46"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.7, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.8, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 95.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.7, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.7, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.8, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e01\u0e47\u0e1a\u0e40\u0e2d\u0e32\u0e44\u0e27\u0e49\u0e43\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e25\u0e36\u0e01 \u0e0b\u0e48\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19 \u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e21\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e44\u0e2b\u0e19 :)"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e23\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e35\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e2a\u0e39\u0e49\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23binge\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e46 \u0e0b\u0e36\u0e48\u0e07\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e01\u0e47\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2b\u0e32\u0e22100%\u0e41\u0e15\u0e48\u0e04\u0e48\u0e2d\u0e19\u0e02\u0e49\u0e32\u0e07\u0e14\u0e35\u0e02\u0e36\u0e49\u0e19\u0e08\u0e32\u0e01\u0e41\u0e15\u0e48\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e15\u0e49\u0e2d\u0e07\u2026 https://t.co/ME1PKLdT15"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u2661 sell #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14NCT #\u0e41\u0e08\u0e2e\u0e22\u0e2d\u0e19\n\u0e02\u0e32\u0e22\u0e01\u0e32\u0e23\u0e4c\u0e14\u0e2d\u0e31\u0e25\u0e1a\u0e31\u0e49\u0e21 ; \u0e19\u0e49\u0e2d\u0e07\u0e41\u0e08\u0e2e\u0e22\u0e2d\u0e19 \n- Resonance Pt.1 / Pt.2\n- Fire Truck\n- Regular\n- NeoZone\n\u235f\u2026 https://t.co/D2QSi8p9Ea"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.8, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "\u0e44\u0e2e\u0e44\u0e25\u0e15\u0e4c! #\u0e17\u0e31\u0e19\u0e42\u0e25\u0e01\u0e01\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48ThaiPBS \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e1b\u0e23\u0e30\u0e40\u0e14\u0e47\u0e19 \u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e2f \u0e40\u0e23\u0e35\u0e22\u0e01\u0e23\u0e49\u0e2d\u0e07\u0e04\u0e13\u0e30\u0e21\u0e19\u0e15\u0e23\u0e35\u0e04\u0e27\u0e32\u0e21\u0e21\u0e31\u0e48\u0e19\u0e04\u0e07\u0e22\u0e39\u0e40\u0e2d\u0e47\u0e19 \u0e04\u0e27\u0e48\u0e33\u0e1a\u0e32\u0e15\u0e23\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d\n\n\ud83d\udccc  \u0e2b\u0e49\u0e32\u0e21\u2026 https://t.co/n0VIJurofG"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 97, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e2b\u0e23\u0e2d\u0e01 \u0e40\u0e23\u0e32\u0e0a\u0e34\u0e19\u0e01\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 :) https://t.co/BZHDhvyxpN"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e17\u0e27\u0e34\u0e15\u0e21\u0e31\u0e19\u0e44\u0e21\u0e48\u0e41\u0e08\u0e49\u0e07\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e2d\u0e48\u0e30 \u0e40\u0e1b\u0e34\u0e14\u0e01\u0e32\u0e23\u0e41\u0e08\u0e49\u0e07\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30\u0e2e\u0e37\u0e2d \u0e40\u0e2a\u0e49\u0e27 :("}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 97, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 97, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 97, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e21\u0e35\u0e04\u0e19\u0e1e\u0e32\u0e44\u0e1b\u0e01\u0e34\u0e19\u0e02\u0e49\u0e32\u0e27 \u0e1e\u0e32\u0e44\u0e1b\u0e01\u0e34\u0e19\u0e02\u0e19\u0e21 \u0e1e\u0e32\u0e44\u0e1b\u0e01\u0e34\u0e19\u0e44\u0e2d\u0e15\u0e34\u0e21 \u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e04\u0e31\u0e1a :)"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": true, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@mininie_1928 \u0e40\u0e23\u0e32\u0e21\u0e35 C \u0e41\u0e25\u0e30 T Ver \u0e19\u0e30\u0e04\u0e30\n\u0e2b\u0e32\u0e01\u0e2a\u0e19\u0e43\u0e08 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e2a\u0e2d\u0e1a\u0e16\u0e32\u0e21\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e44\u0e14\u0e49\u0e04\u0e48\u0e30 :)\nhttps://t.co/YSpeqgfSDp"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e01\u0e47\u0e44\u0e21\u0e48\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07\u0e04\u0e23\u0e31\u0e1a \n\u0e44\u0e21\u0e48\u0e0a\u0e2d\u0e1a\u0e01\u0e47\u0e44\u0e21\u0e48\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07\u0e04\u0e23\u0e31\u0e1a\n\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e19\u0e31\u0e49\u0e19\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27\u0e04\u0e23\u0e31\u0e1a :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.8, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 55, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e17\u0e33\u0e44\u0e21\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02\u0e08\u0e31\u0e07 \u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e19\u0e30 :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.7, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.6, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.6, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.6, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e01\u0e32\u0e23\u0e01\u0e23\u0e30\u0e17\u0e33\u0e40\u0e01\u0e34\u0e19\u0e01\u0e27\u0e48\u0e32\u0e40\u0e2b\u0e15\u0e38\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e2d\u0e22\u0e48\u0e32\u0e40\u0e23\u0e35\u0e22\u0e01\u0e27\u0e48\u0e32\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e31\u0e27\u0e40\u0e25\u0e22\u0e40\u0e2b\u0e2d\u0e30 \u0e04\u0e19\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e40\u0e2b\u0e15\u0e38\u0e01\u0e32\u0e23\u0e13\u0e4c \u0e19\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e41\u0e1f\u0e19\u0e41\u0e25\u0e49\u0e27\u0e01\u0e47\u0e44\u0e21\u0e48\u0e21\u0e35\u0e43\u0e04\u0e23\u0e2b\u0e49\u0e32\u0e21\u0e40\u0e25\u0e22 \u0e44\u0e14\u0e49\u0e22\u0e34\u0e19\u0e41\u0e15\u0e48\u2026 https://t.co/MjVtx4ksjx"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.6, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.3, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e19\u0e2d\u0e22\u0e14\u0e4c\u0e40\u0e25\u0e22 \u0e44\u0e2d\u0e49\u0e40\u0e2b\u0e35\u0e49\u0e22\u0e22\u0e22 :("}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.5, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.4, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 6}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.3, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u2661 \u0e25\u0e14\u0e40\u0e2b\u0e25\u0e37\u0e2d 100\u0e3f \u0e23\u0e27\u0e21\u0e2a\u0e48\u0e07\u0e04\u0e31\u0e49\u0e1a\ud83e\udd0f\ud83c\udffb \n#\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nct #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nct127 #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e1a\u0e31\u0e07\u0e17\u0e31\u0e19 #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nctdream #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14ENHYPEN\u2026 https://t.co/O1ETurNgL4"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 96.4, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.4, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.4, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.6, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e01\u0e32\u0e23\u0e16\u0e48\u0e32\u0e22\u0e23\u0e39\u0e1b \u0e41\u0e21\u0e49\u0e21\u0e31\u0e19\u0e08\u0e30\u0e2d\u0e2d\u0e01\u0e21\u0e32\u0e07\u0e31\u0e49\u0e19\u0e46 \u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e04\u0e25\u0e31\u0e48\u0e07\u0e15\u0e31\u0e14\u0e15\u0e48\u0e2d\u0e27\u0e35\u0e14\u0e35\u0e42\u0e2d \u0e2d\u0e22\u0e39\u0e48\u0e22\u0e32\u0e27\u0e17\u0e31\u0e49\u0e07\u0e04\u0e37\u0e19 \u0e41\u0e21\u0e49\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e15\u0e31\u0e07\u0e2a\u0e31\u0e01\u0e41\u0e14\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27 \u0e15\u0e2d\u0e19\u0e19\u0e31\u0e48\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1a\u0e17\u2026 https://t.co/htx1zpmm2q"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.4, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.6, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.2, "humid": 96.5, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.5, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.6, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.7, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 5}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e44\u0e1b\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e01\u0e35\u0e48\u0e04\u0e23\u0e31\u0e49\u0e07\u0e01\u0e47\u0e22\u0e34\u0e48\u0e07\u0e17\u0e33\u0e43\u0e2b\u0e49 \u201c\u0e2b\u0e25\u0e07\u0e23\u0e31\u0e01\u0e04\u0e19\u0e23\u0e49\u0e2d\u0e07\u201d \u0e40\u0e1e\u0e34\u0e48\u0e21\u0e02\u0e36\u0e49\u0e19\u0e17\u0e38\u0e01\u0e17\u0e35 :)\n\n#50Mviews\u0e1e\u0e34\u0e07\u0e19\u0e19\u0e17\u0e4c\u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32\n#NONTTANONT https://t.co/rEB8vmJqjj"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 96.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 5}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97.1, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97.6, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e38\u0e1a\u0e19\u0e34\u0e1a\u0e44\u0e1b\u0e2b\u0e21\u0e14 \ud83d\ude0d \u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e32\u0e07 @sudsapda \u0e14\u0e49\u0e27\u0e22\u0e19\u0e30\u0e04\u0e30 \u2728\n\n#InsightRookies #InsightArtist #InsightEntertainment\u2026 https://t.co/MSFwUpKLlx"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 97.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.1, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 6}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.4, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.6, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "@ThaiPBS \u0e17\u0e35\u0e21\u0e31\u0e19\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e40\u0e04\u0e22\u0e16\u0e32\u0e21\u0e43\u0e04\u0e23\u0e21\u0e31\u0e49\u0e22 \u0e01\u0e30\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e08\u0e30\u0e40\u0e2d\u0e32\u0e43\u0e2b\u0e49\u0e15\u0e32\u0e22"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 98.5, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.8, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e01\u0e25\u0e31\u0e27\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e2a\u0e39\u0e0d\u0e40\u0e2a\u0e35\u0e22\u0e41\u0e1a\u0e1a\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19 \u0e21\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e15\u0e31\u0e27 \u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e43\u0e08 \u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e08\u0e30\u0e2a\u0e39\u0e0d\u0e40\u0e2a\u0e35\u0e22\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19\u0e2d\u0e48\u0e30 \u0e44\u0e21\u0e48\u0e0a\u0e2d\u0e1a\u0e40\u0e25\u0e22 :("}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "\u0e04\u0e19\u0e44\u0e17\u0e22\u0e01\u0e33\u0e25\u0e31\u0e07\u0e41\u0e1a\u0e01\u0e23\u0e31\u0e1a\u0e20\u0e32\u0e23\u0e30\u0e04\u0e48\u0e32\u0e43\u0e0a\u0e49\u0e08\u0e48\u0e32\u0e22 \u0e41\u0e25\u0e30\u0e2a\u0e30\u0e17\u0e49\u0e2d\u0e19\u0e27\u0e48\u0e32 \u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e43\u0e19\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e27\u0e31\u0e19\u0e41\u0e1e\u0e07\u0e02\u0e36\u0e49\u0e19 \u0e41\u0e15\u0e48\u0e23\u0e2d\u0e07\u0e19\u0e32\u0e22\u0e01\u0e23\u0e31\u0e10\u0e21\u0e19\u0e15\u0e23\u0e35\u0e14\u0e49\u0e32\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08 \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e27\u0e48\u0e32 \u0e41\u2026 https://t.co/vj7uTjCi5k"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.7, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 12}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.8, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e21\u0e34\u0e49\u0e07\u0e43\u0e2b\u0e48\u0e01\u0e38\u0e23\u0e49\u0e2d\u0e07\u0e2d\u0e30\u0e44\u0e23 \u0e2d\u0e38\u0e1a\u0e32\u0e14\u0e08\u0e34\u0e15\u0e21\u0e32\u0e01\u0e21\u0e32\u0e22 \u0e44\u0e21\u0e48\u0e04\u0e48\u0e2d\u0e22\u0e0a\u0e2d\u0e1a\u0e40\u0e25\u0e22\u0e2d\u0e30\u0e44\u0e23\u0e1e\u0e27\u0e01\u0e19\u0e35\u0e49 :("}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 98.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.7, "humid": 54.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 8}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.3, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 54.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.4, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "@ThaiPBS 555\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e2d\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e23\u0e39\u0e21\u0e32\u0e1e\u0e39\u0e14\u0e21\u0e31\u0e48\u0e07"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53.5, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.5, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.6, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 53, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.6, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 52.5, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.7, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.6, "humid": 52.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 51.5, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 51.1, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e22\u0e2d\u0e14 views \u0e04\u0e37\u0e2d\u0e21\u0e35\u0e04\u0e19\u0e0a\u0e2d\u0e1a\u0e40\u0e1e\u0e25\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e30\u0e17\u0e35\u0e21\u0e07\u0e32\u0e19\u0e17\u0e38\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e17\u0e33\u0e21\u0e32\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19.\n\n\u0e14\u0e35\u0e43\u0e08\u0e14\u0e49\u0e27\u0e22\n\n:)\n\n#50Mviews\u0e1e\u0e34\u0e07\u0e19\u0e19\u0e17\u0e4c\u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32\n#nonttanont #nontfam"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 50.6, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 50.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 49.8, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e04\u0e22\u0e1e\u0e39\u0e14\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e01\u0e31\u0e1a\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e31\u0e27\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e31\u0e19\u0e27\u0e48\u0e32\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e02\u0e49\u0e32\u0e23\u0e31\u0e1a\u0e19\u0e30 \u0e42\u0e14\u0e19\u0e42\u0e22\u0e07\u0e40\u0e02\u0e49\u0e32\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e09\u0e22 \u0e1a\u0e2d\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e47\u0e01\u0e2a\u0e21\u0e31\u0e22\u0e19\u0e35\u0e49\u0e21\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32\u0e40\u0e08\u0e49\u0e32 \u0e21\u0e31\u0e19\u0e44\u0e2b\u0e25\u2026 https://t.co/0LUy2aZQdz"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 49.6, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e17\u0e38\u0e01\u0e04\u0e19\u0e04\u0e37\u0e2d\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27 \u0e2d\u0e32\u0e08\u0e08\u0e30\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e48\u0e2d\u0e07\u0e2a\u0e27\u0e48\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e01\u0e47\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e27\u0e48\u0e32\u0e41\u0e01\u0e01\u0e47\u0e21\u0e35\u0e41\u0e2a\u0e07\u0e43\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e19\u0e30 :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 49.4, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 49.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 49.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 50, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 50.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30.1, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "\u0e0a\u0e21\u0e2a\u0e31\u0e21\u0e20\u0e32\u0e29\u0e13\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e0a\u0e27\u0e19 \u0e2b\u0e25\u0e35\u0e01\u0e20\u0e31\u0e22 \u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07 \"\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e25\u0e37\u0e48\u0e2d\u0e21\u0e25\u0e49\u0e33\u0e43\u0e19\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e44\u0e17\u0e22\u0e01\u0e31\u0e1a\u0e1a\u0e17\u0e1a\u0e32\u0e17\u0e2a\u0e37\u0e48\u0e2d\" \u0e41\u0e25\u0e30 \u0e23\u0e28.\u0e14\u0e23.\u0e27\u0e34\u0e25\u0e32\u0e2a\u0e34\u0e19\u0e35 \u0e1e\u0e34\u0e1e\u0e34\u0e18\u0e01\u0e38\u0e25 \u0e40\u0e1c\u0e22\u0e16\u0e36\u0e07\u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u2026 https://t.co/H65Z3UHzSd"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 50.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 50.7, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": true, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "5 \u0e15\u0e31\u0e27\u0e01\u0e23\u0e30\u0e1b\u0e4b\u0e2d\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27 \u0e17\u0e33\u0e44\u0e21\u0e01\u0e39\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e07\u0e34\u0e19\u0e1a\u0e49\u0e32\u0e07 :( https://t.co/uEDWp9iogW"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 51.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 51.4, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e22\u0e2d\u0e21\u0e41\u0e25\u0e49\u0e27 \ud83e\udd7a"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 51.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 51.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 52.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e2b\u0e47\u0e19\u0e1a\u0e2d\u0e01\u0e27\u0e48\u0e32\u0e2b\u0e19\u0e32\u0e27 \u0e01\u0e47\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e17\u0e35\u0e48\u0e19\u0e31\u0e48\u0e19\u0e2d\u0e1a\u0e2d\u0e38\u0e48\u0e19\u0e02\u0e36\u0e49\u0e19\u0e19\u0e30 \u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e07\u0e32\u0e19\u0e23\u0e32\u0e1a\u0e23\u0e37\u0e48\u0e19\u0e14\u0e49\u0e27\u0e22 :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 52.5, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 5}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 52.7, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@BadMrdWolf \u0e14\u0e49\u0e27\u0e22\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e31\u0e1a\u0e1a\u0e17\u0e41\u0e25\u0e30\u0e42\u0e04\u0e23\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e2b\u0e21\u0e14 \u0e01\u0e47\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e40\u0e22\u0e2d\u0e30\u0e2d\u0e22\u0e39\u0e48 \u0e41\u0e15\u0e48\u0e2a\u0e19\u0e38\u0e01\u0e41\u0e25\u0e30\u0e19\u0e48\u0e32\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e02\u0e36\u0e49\u0e19\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21\u0e21\u0e32\u0e01\u0e04\u0e49\u0e32\u0e1a :)"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u2661 \u0e25\u0e14\u0e40\u0e2b\u0e25\u0e37\u0e2d 100\u0e3f \u0e23\u0e27\u0e21\u0e2a\u0e48\u0e07\u0e04\u0e31\u0e49\u0e1a\ud83e\udd0f\ud83c\udffb \n#\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nct #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nct127 #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e1a\u0e31\u0e07\u0e17\u0e31\u0e19 #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14nctdream #\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14ENHYPEN\u2026 https://t.co/ffQEO4NCdj"}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 53, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": true, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e14\u0e35 :) https://t.co/JB4N117aYA"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 53.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 53.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 165 \u0e21\u0e32\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e15\u0e31\u0e27\u0e04\u0e48\u0e32.\n\n:)\n#LoveNontLoveBlue\n#nonttanont #nontfam https://t.co/TR61tczASt"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 53.6, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "@ThaiPBS \u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27\u0e04\u0e37\u0e2d\u0e23\u0e30\u0e22\u0e30\u0e40\u0e27\u0e25\u0e32\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48\u0e25\u0e48\u0e30\u0e15\u0e2d\u0e1a\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21? \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27\u0e02\u0e2d\u0e07\u0e17\u0e48\u0e32\u0e19\u0e19\u0e31\u0e49\u0e19\u0e43\u0e19\u0e17\u0e38\u0e01\u0e46\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b \u0e21\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e22\u0e32\u0e01\u0e25\u0e33\u0e1a\u0e32\u0e01\u0e41\u0e25\u0e30\u0e04\u2026 https://t.co/r9uOp96hru"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 54, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@foolstepband \u0e23\u0e31\u0e01\u0e40\u0e23\u0e32\u0e43\u0e2b\u0e49\u0e40\u0e17\u0e48\u0e32\u0e1f\u0e34\u0e25\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e35 :)"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 54.3, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 54.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "\u0e44\u0e1b\u0e14\u0e39\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07\u0e2b\u0e25\u0e31\u0e07\u0e01\u0e32\u0e23\u0e16\u0e48\u0e32\u0e22\u0e17\u0e33\u0e2a\u0e32\u0e23\u0e04\u0e14\u0e35\u0e17\u0e35\u0e48\u0e01\u0e27\u0e48\u0e32\u0e08\u0e30\u0e44\u0e14\u0e49\u0e20\u0e32\u0e1e\u0e42\u0e25\u0e21\u0e32\u0e42\u0e15\u0e49\u0e04\u0e25\u0e37\u0e48\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e1e\u0e1a\u0e40\u0e08\u0e2d\u0e2d\u0e38\u0e1b\u0e2a\u0e23\u0e23\u0e04\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23\u0e1a\u0e49\u0e32\u0e07 \u0e43\u0e19 #\u0e17\u0e48\u0e2d\u0e07\u0e42\u0e25\u0e01\u0e01\u0e27\u0e49\u0e32\u0e07 14 \u0e21.\u0e04. 64 \u0e40\u0e27\u0e25\u2026 https://t.co/4Okpt3m6Ht"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 54.6, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 54.8, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "[Live] 20.30 \u0e19. #\u0e15\u0e2d\u0e1a\u0e42\u0e08\u0e17\u0e22\u0e4c : \u0e42\u0e04\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 \"\u0e28\u0e36\u0e01\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c\u0e28\u0e23\u0e35\" #\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e15\u0e31\u0e49\u0e07\u0e0b\u0e48\u0e2d\u0e21 \"\u0e0a\u0e38\u0e21\u0e1e\u0e23-\u0e2a\u0e07\u0e02\u0e25\u0e32\" (13 \u0e21.\u0e04. 65) #ThaiPBS\u2026 https://t.co/Qq1cqPXDkE"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 5}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.5, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@fBlAA43ZIqG4ty5 \u0e07\u0e39\u0e49\u0e22\u0e22\u0e22\u0e22\u0e22 :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.5, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e41\u0e15\u0e48\u0e07\u0e08\u0e1a\u0e41\u0e19\u0e48 \u0e44\u0e21\u0e48\u0e40\u0e17 \u0e44\u0e21\u0e48\u0e2b\u0e32\u0e22\u0e04\u0e48\u0e32\u0e32 \u0e22\u0e31\u0e07\u0e44\u0e07\u0e08\u0e30\u0e41\u0e27\u0e30\u0e21\u0e32\u0e40\u0e25\u0e48\u0e19\u0e14\u0e49\u0e27\u0e22\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e21\u0e35\u0e2d\u0e31\u0e1e\u0e19\u0e34\u0e22\u0e32\u0e22\u0e19\u0e30\u0e04\u0e30 \u0e41\u0e25\u0e49\u0e27\u0e01\u0e47\u0e27\u0e48\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e21\u0e35\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e41\u0e08\u0e01\u0e02\u0e2d\u0e07\u0e40\u0e25\u0e47\u0e01\u0e46\u0e19\u0e49\u0e2d\u0e22\u0e46 :) \u0e41\u0e15\u0e48\u2026 https://t.co/1x1gfXDXuh"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e09\u0e31\u0e19\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e2d\u0e22\u0e32\u0e01\u0e02\u0e2d\u0e40\u0e01\u0e47\u0e1a\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21\u0e19\u0e35\u0e49\u0e01\u0e48\u0e2d\u0e19 :) @Tawan_V"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "news", "type": "social", "data": {"text": "@ThaiPBS \u0e07\u0e14\u0e07\u0e32\u0e21\u0e21\u0e32\u0e01"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e27\u0e25\u0e32\u0e1e\u0e32\u0e40\u0e23\u0e32\u0e43\u0e2b\u0e49\u0e44\u0e01\u0e25\u0e01\u0e31\u0e19 :("}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.8, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.2, "humid": 55.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.8, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.7, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.6, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.5, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e42\u0e2e\u0e23 \u0e2a\u0e38\u0e14\u0e2b\u0e25\u0e48\u0e2d\u0e02\u0e2d\u0e07\u0e21\u0e35\u0e49\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.5, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 5}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.3, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e04\u0e2a\u0e04\u0e37\u0e2d\u0e41\u0e1a\u0e4a\u0e27\u0e01\u0e23\u0e38\u0e1a\u0e19\u0e30 555555555555"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e2a\u0e21\u0e38\u0e22\u0e22\u0e22\u0e22\u0e22\u0e25\u0e39\u0e49\u0e01\u0e01\u0e01\u0e01\u0e01\u0e01 #\u0e2a\u0e21\u0e38\u0e22\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e01\u0e32\u0e30"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e04\u0e19\u0e19\u0e35\u0e49\u0e02\u0e32\u0e22\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e0a\u0e2d\u0e1a!!!"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.4, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e42\u0e17\u0e2a\u0e31\u0e1e\u0e40\u0e14\u0e01\u0e40\u0e23\u0e49\u0e01\ud83e\udd7a\ud83e\udd7a\ud83d\udc96"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@bamborabora @peckpalit \u0e40\u0e14\u0e34\u0e19\u0e44\u0e1b\u0e25\u0e37\u0e49\u0e2d\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e27\u0e27\u0e27\u0e27\u0e4c :)"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.4, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e23\u0e31\u0e1a\u0e04\u0e34\u0e27\u0e19\u0e30\u0e04\u0e30 :)\n\u0e2a\u0e48\u0e07\u0e04\u0e33\u0e17\u0e33\u0e19\u0e32\u0e22 21:00-23:00\n  \n\u0e40\u0e14\u0e21\u0e2b\u0e23\u0e37\u0e2d\u0e17\u0e31\u0e01\u0e44\u0e25\u0e19\u0e4c\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e25\u0e34\u0e49\u0e07\u0e04\u0e4c\u0e19\u0e35\u0e49\u0e19\u0e49\u0e32   \nhttps://t.co/VWw8hbtCpB \n\u0e44\u0e25\u0e19\u0e4c\u0e41\u0e08\u0e49\u0e07\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e44\u2026 https://t.co/BPVIFxIozg"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e27\u0e2d\u0e19\u0e1e\u0e34\u0e25\u0e25\u0e38\u0e04\u0e40\u0e0a\u0e34\u0e49\u0e15\u0e02\u0e32\u0e27\u0e2b\u0e25\u0e48\u0e2d\u0e21\u0e32\u0e01 \u0e02\u0e27\u0e31\u0e0d\u0e43\u0e08\u0e2a\u0e32\u0e27\u0e46\u0e40\u0e25\u0e22 :) https://t.co/eh7UttcwQl"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.3, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "Photobook Summer Melody \u0e41\u0e08\u0e49\u0e07\u0e40\u0e25\u0e02\u0e41\u0e17\u0e23\u0e04\u0e43\u0e19\u0e40\u0e14\u0e47\u0e21\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30\u0e04\u0e30 (\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19\u0e04\u0e38\u0e13\u0e19\u0e25\u0e34\u0e19\u0e17\u0e34\u0e1e\u0e22\u0e4c \u0e22\u0e31\u0e07\u0e15\u0e32\u0e21\u0e2b\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e19\u0e49\u0e32)\n\n\u0e17\u0e38\u0e01\u0e2d\u0e2d\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e08\u0e30\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e4c\u0e14\u0e1e\u0e34\u0e40\u0e28\u2026 https://t.co/VkJ3uDOdo4"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 3}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e42\u0e2b\u0e40\u0e28\u0e23\u0e49\u0e32\u0e21\u0e32\u0e01\u0e2d\u0e48\u0e30 \u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e47\u0e08\u0e30\u0e1a\u0e31\u0e07\u0e04\u0e31\u0e1a\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e1a\u0e41\u0e1f\u0e19\u0e2d\u0e35\u0e01"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 30, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22\u0e01\u0e47\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e41\u0e25\u0e30\u0e2b\u0e27\u0e31\u0e07\u0e14\u0e35 \u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e02\u0e32\u0e1e\u0e1a\u0e40\u0e08\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e14\u0e35\u0e46\u0e43\u0e19\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e44\u0e1b\u0e43\u0e19\u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e14\u0e35\u0e41\u0e1a\u0e1a\u0e17\u0e35\u0e48\u0e04\u0e27\u0e23\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19 \u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 :)"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e32\u0e07 SUDSAPDA \u0e17\u0e35\u0e48\u0e40\u0e2d\u0e47\u0e19\u0e14\u0e39\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e48\u0e2d \u0e41\u0e25\u0e30\u0e40\u0e14\u0e47\u0e01\u0e2d\u0e34\u0e19\u0e44\u0e0b\u0e17\u0e4c\u0e17\u0e31\u0e49\u0e07 3 \u0e04\u0e19\u0e14\u0e49\u0e27\u0e22\u0e19\u0e30\u0e04\u0e30\ud83d\udc30\ud83d\udc9c\n\n#\u0e25\u0e31\u0e01\u0e22\u0e34\u0e49\u0e21\u0e02\u0e2d\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e48\u0e2d #\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e48\u0e2d\u0e40\u0e08\u0e49\u0e32\u0e41\u0e01\u0e49\u0e21\u0e1a\u0e38\u0e4b\u0e21"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e19\u0e49\u0e2d\u0e07\u0e19\u0e19\u0e17\u0e4c \u0e41\u0e25\u0e30\u0e17\u0e35\u0e21\u0e07\u0e32\u0e19\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07\u0e2b\u0e25\u0e31\u0e07\u0e17\u0e38\u0e01\u0e04\u0e19\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e19\u0e30\u0e04\u0e30 \u0e17\u0e38\u0e01\u0e04\u0e19\u0e40\u0e01\u0e48\u0e07\u0e21\u0e32\u0e01\u0e46 \u0e04\u0e48\u0e32 \ud83d\udc4d\ud83c\udffb\ud83c\udf89\n\n\ud83d\udcfa\u3010OFFICIAL MV\u3011\u201c\u0e1e\u0e34\u0e07\u201d [\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23\u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u2026 https://t.co/oBeSyCtxje"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e41\u0e15\u0e48\u0e07\u0e08\u0e1a\u0e41\u0e19\u0e48 \u0e44\u0e21\u0e48\u0e40\u0e17 \u0e44\u0e21\u0e48\u0e2b\u0e32\u0e22\u0e04\u0e48\u0e32\u0e32 \u0e22\u0e31\u0e07\u0e44\u0e07\u0e08\u0e30\u0e41\u0e27\u0e30\u0e21\u0e32\u0e40\u0e25\u0e48\u0e19\u0e14\u0e49\u0e27\u0e22\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e21\u0e35\u0e2d\u0e31\u0e1e\u0e19\u0e34\u0e22\u0e32\u0e22\u0e19\u0e30\u0e04\u0e30 \u0e41\u0e25\u0e49\u0e27\u0e01\u0e47\u0e27\u0e48\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e21\u0e35\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e41\u0e08\u0e01\u0e02\u0e2d\u0e07\u0e40\u0e25\u0e47\u0e01\u0e46\u0e19\u0e49\u0e2d\u0e22\u0e46 :) \u0e41\u0e15\u0e48\u2026 https://t.co/kdhmYiGXiV"}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e17\u0e35\u0e48\u0e21\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19 \u0e21\u0e35\u0e04\u0e38\u0e13\u0e04\u0e48\u0e32\u0e15\u0e32\u0e21\u0e04\u0e38\u0e13\u0e04\u0e48\u0e32\u0e02\u0e2d\u0e07\u0e21\u0e31\u0e19 \u0e0a\u0e35\u0e27\u0e34\u0e15\u0e17\u0e33\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e17\u0e35\u0e48\u0e1e\u0e2d\u0e17\u0e33\u0e44\u0e14\u0e49 \u0e41\u0e25\u0e30\u0e1a\u0e32\u0e07\u0e04\u0e23\u0e31\u0e49\u0e07\u0e21\u0e31\u0e19\u0e01\u0e47\u0e17\u0e33\u0e14\u0e49\u0e27\u0e22\u0e04\u0e27\u0e32\u0e21\u0e0b\u0e38\u0e48\u0e21\u0e0b\u0e48\u0e32\u0e21 :)\u2026 https://t.co/gVkmHaBOwd"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.3, "humid": 55.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e2d\u0e19\u0e08\u0e1a\u0e17\u0e35\u0e48\u0e42\u0e04\u0e15\u0e23\u0e40\u0e28\u0e23\u0e49\u0e32"}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e01\u0e35\u0e49\u0e04\u0e33\u0e1c\u0e34\u0e14\u0e40\u0e22\u0e2d\u0e30\u0e08\u0e31\u0e14 \u0e40\u0e25\u0e22\u0e25\u0e1a\u0e42\u0e1e\u0e2a\u0e43\u0e2b\u0e21\u0e48 :) \u0e41\u0e15\u0e48\u0e04\u0e2d\u0e21\u0e40\u0e21\u0e19\u0e15\u0e4c\u0e01\u0e48\u0e2d\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e19\u0e35\u0e49\u0e2d\u0e48\u0e32\u0e19\u0e04\u0e23\u0e1a\u0e2b\u0e21\u0e14\u0e25\u0e49\u0e32\u0e27\u0e27\u0e27 \u0e40\u0e1b\u0e47\u0e19\u0e01\u0e33\u0e25\u0e31\u0e07\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e14\u0e49\u0e27\u0e22\u0e19\u0e49\u0e32\u0e32\u0e32 \ud83d\udcaa\ud83c\udffb\ud83e\udd2a"}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.2, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "@stream4nont \u201c\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e17\u0e35\u0e48\u0e22\u0e37\u0e19\u0e02\u0e49\u0e32\u0e07\u0e46 \u0e40\u0e2a\u0e21\u0e2d\n\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e2b\u0e31\u0e19\u0e21\u0e32\u0e01\u0e47\u0e40\u0e08\u0e2d\n\u0e21\u0e35\u0e44\u0e2b\u0e25\u0e48\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e1e\u0e34\u0e07\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23 :)\n\n #50Mviews\u0e1e\u0e34\u0e07\u0e19\u0e19\u0e17\u0e4c\u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.1, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e40\u0e04\u0e2a\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e21\u0e32\u0e01\ud83e\udd7a"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 4}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.1, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55.1, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.5, "humid": 55.1, "light": -1}}
+{"quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "th", "name": "twitter", "type": "social", "data": {"text": "\u0e23\u0e31\u0e01\u0e04\u0e49\u0e32\u0e1a \ud83e\udd0d\ud83d\udc97\ud83d\udc99\u2728"}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.9, "humid": 99.9, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55, "light": -1}}
+{"name": "pm25001", "type": "pm25", "data": {"pm25": 2}}
+{"name": "station001", "type": "weather", "data": {"temp": 29.8, "humid": 99.9, "light": -1}}
+{"name": "station002", "type": "weather", "data": {"temp": 30.4, "humid": 55, "light": -1}}
